@@ -1,5 +1,14 @@
 {
   "event": "Halloween 2026",
   "eventId": "halloween-2026",
-  "pokemon": []
+  "pokemon": [
+    {
+      "eventPokemonId": "halloween-2026-pikachu",
+      "basePokemonId": 25,
+      "basePokemonName": "Pikachu",
+      "displayName": "Halloween Pikachu",
+      "rarity": "rare",
+      "image": "pikachu.png"
+    }
+  ]
 }
