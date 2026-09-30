@@ -1,12 +1,14 @@
 {
   "event": "October Pikachu Event 2026",
-  "eventId": "october-pikachu-2026",
+  "eventId": "october-2026",
   "pokemon": [
     {
       "eventPokemonId": "october-2026-pikachu-halloween",
       "basePokemonId": 25,
       "basePokemonName": "Pikachu",
       "displayName": "Halloween Pikachu",
+      "rarity": "event",
+      "weight": 1,
       "normalImage": "pikachu-halloween.png",
       "shinyImage": "pikachu-halloween-shiny.png"
     },
@@ -15,6 +17,8 @@
       "basePokemonId": 25,
       "basePokemonName": "Pikachu",
       "displayName": "Fossil Pikachu",
+      "rarity": "event",
+      "weight": 1,
       "normalImage": "pikachu-fossil.png",
       "shinyImage": "pikachu-fossil-shiny.png"
     },
@@ -23,6 +27,8 @@
       "basePokemonId": 25,
       "basePokemonName": "Pikachu",
       "displayName": "Dapper Pikachu",
+      "rarity": "event",
+      "weight": 1,
       "normalImage": "pikachu-dapper.png",
       "shinyImage": "pikachu-dapper-shiny.png"
     },
@@ -31,6 +37,8 @@
       "basePokemonId": 25,
       "basePokemonName": "Pikachu",
       "displayName": "Kanto Pikachu",
+      "rarity": "event",
+      "weight": 1,
       "normalImage": "pikachu-kanto.png",
       "shinyImage": "pikachu-kanto-shiny.png"
     },
@@ -39,6 +47,8 @@
       "basePokemonId": 25,
       "basePokemonName": "Pikachu",
       "displayName": "VS Pikachu",
+      "rarity": "event",
+      "weight": 1,
       "normalImage": "pikachu-vs.png",
       "shinyImage": "pikachu-vs-shiny.png"
     }
