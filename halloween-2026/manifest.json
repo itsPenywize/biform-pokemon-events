@@ -8,8 +8,8 @@
       "basePokemonName": "Pikachu",
       "displayName": "Halloween Pikachu",
       "rarity": "rare",
-      "normalImage": "pikachu.png",
-      "shinyImage": "pikachu-shiny.png"
+      "normalImage": "pikachu-halloween.png",
+      "shinyImage": "pikachu-halloween-shiny.png"
     }
   ]
 }
