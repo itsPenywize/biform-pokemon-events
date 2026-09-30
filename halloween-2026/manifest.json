@@ -1,15 +1,46 @@
 {
-  "event": "Halloween 2026",
-  "eventId": "halloween-2026",
+  "event": "October Pikachu Event 2026",
+  "eventId": "october-pikachu-2026",
   "pokemon": [
     {
-      "eventPokemonId": "halloween-2026-pikachu",
+      "eventPokemonId": "october-2026-pikachu-halloween",
       "basePokemonId": 25,
       "basePokemonName": "Pikachu",
       "displayName": "Halloween Pikachu",
-      "rarity": "rare",
       "normalImage": "pikachu-halloween.png",
       "shinyImage": "pikachu-halloween-shiny.png"
+    },
+    {
+      "eventPokemonId": "october-2026-pikachu-fossil",
+      "basePokemonId": 25,
+      "basePokemonName": "Pikachu",
+      "displayName": "Fossil Pikachu",
+      "normalImage": "pikachu-fossil.png",
+      "shinyImage": "pikachu-fossil-shiny.png"
+    },
+    {
+      "eventPokemonId": "october-2026-pikachu-dapper",
+      "basePokemonId": 25,
+      "basePokemonName": "Pikachu",
+      "displayName": "Dapper Pikachu",
+      "normalImage": "pikachu-dapper.png",
+      "shinyImage": "pikachu-dapper-shiny.png"
+    },
+    {
+      "eventPokemonId": "october-2026-pikachu-kanto",
+      "basePokemonId": 25,
+      "basePokemonName": "Pikachu",
+      "displayName": "Kanto Pikachu",
+      "normalImage": "pikachu-kanto.png",
+      "shinyImage": "pikachu-kanto-shiny.png"
+    },
+    {
+      "eventPokemonId": "october-2026-pikachu-vs",
+      "basePokemonId": 25,
+      "basePokemonName": "Pikachu",
+      "displayName": "VS Pikachu",
+      "normalImage": "pikachu-vs.png",
+      "shinyImage": "pikachu-vs-shiny.png"
     }
   ]
 }
